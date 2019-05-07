@@ -10,7 +10,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="Escape room" target="1.5" />
+      <module name="Escape room" target="1.7" />
     </bytecodeTargetLevel>
   </component>
 </project>
