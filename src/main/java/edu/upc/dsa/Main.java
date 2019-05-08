@@ -33,7 +33,11 @@ public class Main {
         beanConfig.setHost("localhost:8080");
         beanConfig.setBasePath("/dsaApp");
         beanConfig.setContact("support@example.com");
+<<<<<<< HEAD
         beanConfig.setDescription("REST API for Bikes Manager");
+=======
+        beanConfig.setDescription("REST API for EscapeRoom");
+>>>>>>> b593d0b618f955e2a68475e273c4da5d165f6e83
         beanConfig.setLicenseUrl("http://www.apache.org/licenses/LICENSE-2.0.html");
         //cambiar pakage
         beanConfig.setResourcePackage("edu.upc.dsa.services");
