@@ -8,6 +8,6 @@ public interface ProductManager {
 
     UserTO login(UserTO user);
     UserTO register(UserTO user);
-    List<Object> getAllObjectsOfAPlayer(int idUser) throws UserNotFoundException;
+
 
 }
