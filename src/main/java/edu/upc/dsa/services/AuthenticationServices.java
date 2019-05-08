@@ -1,6 +1,6 @@
 package edu.upc.dsa.services;
 
-import edu.upc.dsa.ProductManager;
+import edu.upc.dsa.GameManager;
 import edu.upc.dsa.models.UserTO;
 import io.swagger.annotations.Api;
 import io.swagger.annotations.ApiOperation;
@@ -17,7 +17,7 @@ import javax.ws.rs.core.Response;
 @Path("/auth")
 public class AuthenticationServices {
 
-    private ProductManager auth;
+    private GameManager auth;
 
     public AuthenticationServices() throws Exception {} //Connect Mysql
 

@@ -4,7 +4,7 @@ import edu.upc.dsa.models.UserTO;
 
 import java.util.List;
 
-public interface ProductManager {
+public interface GameManager {
 
     UserTO login(UserTO user);
     UserTO register(UserTO user);
