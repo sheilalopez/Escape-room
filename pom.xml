@@ -5,11 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>groupId</groupId>
-<<<<<<< HEAD
-    <artifactId>Minimo1-Bicis</artifactId>
-=======
     <artifactId>Escape-room</artifactId>
->>>>>>> b593d0b618f955e2a68475e273c4da5d165f6e83
     <version>1.0-SNAPSHOT</version>
 
     <dependencyManagement>
@@ -23,13 +19,7 @@
             </dependency>
         </dependencies>
     </dependencyManagement>
-<<<<<<< HEAD
     <dependencies>
-        <!-- https://mvnrepository.com/artifact/junit/junit -->
-=======
-
-    <dependencies><!-- https://mvnrepository.com/artifact/mysql/mysql-connector-java -->
->>>>>>> b593d0b618f955e2a68475e273c4da5d165f6e83
         <dependency>
             <groupId>junit</groupId>
             <artifactId>junit</artifactId>
@@ -42,9 +32,6 @@
             <artifactId>log4j</artifactId>
             <version>1.2.17</version>
         </dependency>
-<<<<<<< HEAD
-
-=======
         <!-- https://mvnrepository.com/artifact/junit/junit -->
         <dependency>
             <groupId>junit</groupId>
@@ -52,7 +39,7 @@
             <version>4.12</version>
             <scope>test</scope>
         </dependency>
->>>>>>> b593d0b618f955e2a68475e273c4da5d165f6e83
+
         <dependency>
             <groupId>org.glassfish.jersey.containers</groupId>
             <artifactId>jersey-container-grizzly2-http</artifactId>
