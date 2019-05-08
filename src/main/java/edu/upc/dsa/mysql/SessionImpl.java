@@ -1,4 +1,4 @@
-package edu.upc.dsa;
+package edu.upc.dsa.mysql;
 
 import org.apache.log4j.Logger;
 

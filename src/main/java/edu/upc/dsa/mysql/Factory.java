@@ -1,4 +1,4 @@
-package edu.upc.dsa;
+package edu.upc.dsa.mysql;
 
 public class Factory {
     static Session getSession() throws Exception {

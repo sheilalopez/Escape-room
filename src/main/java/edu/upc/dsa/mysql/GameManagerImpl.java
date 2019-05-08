@@ -1,4 +1,4 @@
-package edu.upc.dsa;
+package edu.upc.dsa.mysql;
 
 import edu.upc.dsa.models.Map;
 import edu.upc.dsa.models.Partida;

@@ -1,6 +1,6 @@
 package edu.upc.dsa.services;
 
-import edu.upc.dsa.GameManager;
+import edu.upc.dsa.mysql.GameManager;
 import io.swagger.annotations.Api;
 import io.swagger.annotations.ApiOperation;
 import io.swagger.annotations.ApiResponse;
