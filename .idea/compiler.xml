@@ -7,9 +7,11 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="Escaperoom" />
+        <module name="Escape-room" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="Escape-room" target="1.7" />
       <module name="Escaperoom" target="1.7" />
     </bytecodeTargetLevel>
   </component>

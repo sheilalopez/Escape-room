@@ -8,10 +8,9 @@ import edu.upc.dsa.models.UserTO;
 import java.util.List;
 
 public class GameManagerImpl implements GameManager {
+
     @Override
     public UserTO login(UserTO user) {
-
-
         return null;
     }
 
